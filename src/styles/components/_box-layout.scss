@@ -1,0 +1,26 @@
+.box-layout {
+  align-items: center;
+  background: url('/images/bg.jpg');
+  background-size: contain;
+  display: flex;
+  height: 100vh;
+  justify-content:center;
+  width: 100vw;
+}
+
+.box-layout__box {
+  padding: $l-size $s-size;
+  text-align: center;
+  width: 30rem;
+  img {
+    height: 199px ;
+    width: 258px ;
+  }
+}
+
+.box-layout__title {
+  margin: 0 0 $m-size 0;
+  line-height: 1;
+}
+
+

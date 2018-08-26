@@ -1,0 +1,48 @@
+
+.litem-Rectangle-Copy{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 375px;
+    height: 93px;
+    background-color: #ffffff;
+}
+
+.litem-CategoryName {
+    width: 20px;
+    height: 10px;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    color: #4a4a4a;
+white-space: nowrap;
+  }
+
+  .litem-groceries_icon{
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+
+
+  }
+
+  .litem-Chevron-Right{
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+
+
+
+  }
+
+  .litem-line{
+    width: 303px;
+    height: 1px;
+    border: solid 1px #979797;
+
+  }

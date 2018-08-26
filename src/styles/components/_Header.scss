@@ -1,0 +1,59 @@
+
+
+.header {
+
+    width: 375px;
+    height: 44px;
+    -webkit-backdrop-filter: blur(10px);
+    // backdrop-filter: blur(10px);
+    background-image: linear-gradient(261deg, #bfe57b, #8acd6e);
+    box-shadow: 0 0.5px 0 0 rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+.header__content {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+
+
+}
+
+.header__title {
+
+
+    width: 76px;
+    height: 24px;
+    font-family:  Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 9px;
+    padding-bottom: 11px;
+
+
+
+}
+
+.logout_icon {
+
+  width: 20px;
+  height: 21.6px;
+  object-fit: contain;
+
+}
+
+.header-icon {
+ position: absolute;
+ left: 342px;
+ top: 9px;
+}
